@@ -52,6 +52,7 @@ PROVIDERS = [
     LoggingProvider,
     ValidationProvider,
     ORMProvider,
-    CorsProvider
+ 
     # Application Providers
+    CorsProvider
 ]
